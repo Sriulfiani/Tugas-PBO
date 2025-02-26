@@ -1,0 +1,1097 @@
+Microsoft Windows [Version 10.0.18363.1139]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Fadli>java -version
+java version "23.0.2" 2025-01-21
+Java(TM) SE Runtime Environment (build 23.0.2+7-58)
+Java HotSpot(TM) 64-Bit Server VM (build 23.0.2+7-58, mixed mode, sharing)
+
+C:\Users\Fadli>javac -version
+javac 23.0.2
+
+C:\Users\Fadli>D:
+
+D:\>cd PBO
+
+D:\PBO>cd Tugas1
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  08:57    <DIR>          .
+26/02/2025  08:57    <DIR>          ..
+26/02/2025  08:57               252 Asgdll.java
+               1 File(s)            252 bytes
+               2 Dir(s)  14.085.668.864 bytes free
+
+D:\PBO\Tugas1>javac Asgdll.java
+
+D:\PBO\Tugas1>java Asgdll.java
+f : 20.0
+f11: 10.0
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  08:58    <DIR>          .
+26/02/2025  08:58    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+               2 File(s)          1.128 bytes
+               2 Dir(s)  14.085.664.768 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  08:59    <DIR>          .
+26/02/2025  08:59    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               247 Asign.java
+               3 File(s)          1.375 bytes
+               2 Dir(s)  14.085.537.792 bytes free
+
+D:\PBO\Tugas1>javac Asign.java
+
+D:\PBO\Tugas1>java Asign.java
+hello
+Ini nilai i :5
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  08:59    <DIR>          .
+26/02/2025  08:59    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+               4 File(s)          2.264 bytes
+               2 Dir(s)  14.085.533.696 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:00    <DIR>          .
+26/02/2025  09:00    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.021 ASIGNi.java
+               5 File(s)          3.285 bytes
+               2 Dir(s)  14.085.464.064 bytes free
+
+D:\PBO\Tugas1>javac ASIGNi.java
+
+D:\PBO\Tugas1>java ASIGNi.java
+Karakter = A
+Karakter = Z
+Karakter = A
+Karakter = Z
+Bilangan integer (short) = 1
+        (int) = 1
+        (long)= 10000
+Bilangan Real x = 50.20000076293945
+Bilangan Real y = 50.2
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:00    <DIR>          .
+26/02/2025  09:00    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+               6 File(s)          4.656 bytes
+               2 Dir(s)  14.085.459.968 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:04    <DIR>          .
+26/02/2025  09:04    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04               504 BacaData.java
+               7 File(s)          5.160 bytes
+               2 Dir(s)  14.085.328.896 bytes free
+
+D:\PBO\Tugas1>javac BacaData.java
+
+D:\PBO\Tugas1>java BacaData.java
+Contoh membaca dan menulis, ketik nilai integer:
+5
+Nilai yang dibaca : 5
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:04    <DIR>          .
+26/02/2025  09:04    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+               8 File(s)          6.233 bytes
+               2 Dir(s)  14.085.324.800 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:09    <DIR>          .
+26/02/2025  09:09    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:09               992 Bacakar.java
+               9 File(s)          7.225 bytes
+               2 Dir(s)  14.085.242.880 bytes free
+
+D:\PBO\Tugas1>javac Bacakar.java
+
+D:\PBO\Tugas1>java Bacakar.java
+hello
+baca 1 karakter : S
+baca 1 bilangan : 4
+S
+4
+bye
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:10    <DIR>          .
+26/02/2025  09:10    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+              10 File(s)          8.637 bytes
+               2 Dir(s)  14.085.160.960 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:11    <DIR>          .
+26/02/2025  09:11    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               704 Casting1.java
+              11 File(s)          9.341 bytes
+               2 Dir(s)  14.085.025.792 bytes free
+
+D:\PBO\Tugas1>javac Casting1.java
+
+D:\PBO\Tugas1>java Casting1.java
+5.0
+6.0
+2
+3.200000047683716
+53
+53.0
+53.0
+3
+3.14
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:11    <DIR>          .
+26/02/2025  09:11    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+              12 File(s)          9.913 bytes
+               2 Dir(s)  14.085.025.792 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:12    <DIR>          .
+26/02/2025  09:12    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:12               874 Casting2.java
+              13 File(s)         10.787 bytes
+               2 Dir(s)  14.084.890.624 bytes free
+
+D:\PBO\Tugas1>javac Casting2.java
+
+D:\PBO\Tugas1>java Casting2.java
+a : 67
+k : 45.0
+d : 100.0
+n : 9
+m : 5
+l : 3.2
+k : 67.0
+c : 9.0
+l : 3.2
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:13    <DIR>          .
+26/02/2025  09:13    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:12               874 Casting2.java
+              14 File(s)         12.535 bytes
+               2 Dir(s)  14.084.886.528 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:14    <DIR>          .
+26/02/2025  09:14    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:14               462 Ekspresi.java
+              15 File(s)         12.997 bytes
+               2 Dir(s)  14.084.751.360 bytes free
+
+D:\PBO\Tugas1>javac Ekspresi.java
+
+D:\PBO\Tugas1>java Ekspresi.java
+x = 1
+y = 2
+hasil ekspresi = (x<y)?x:y = 1
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:15    <DIR>          .
+26/02/2025  09:15    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+              16 File(s)         14.049 bytes
+               2 Dir(s)  14.084.747.264 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:16    <DIR>          .
+26/02/2025  09:16    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16               803 Ekspresi1.java
+              17 File(s)         14.852 bytes
+               2 Dir(s)  14.084.591.616 bytes free
+
+D:\PBO\Tugas1>javac Ekspresi1.java
+
+D:\PBO\Tugas1>java Ekspresi1.java
+x/y (format integer) = 0
+x/y (format float) = 0
+x/y (format integer) = 0.5
+x/y (format float) = 0.5
+float(x)/float(y) (format integer) = 0.5
+float(x)/float(y) (format float) = 0.5
+x/y (format integer) = 3
+x/y (format float) = 3
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:16    <DIR>          .
+26/02/2025  09:16    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+              18 File(s)         16.110 bytes
+               2 Dir(s)  14.084.587.520 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:17    <DIR>          .
+26/02/2025  09:17    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:17               360 Hello.java
+              19 File(s)         16.470 bytes
+               2 Dir(s)  14.084.423.680 bytes free
+
+D:\PBO\Tugas1>javac Hello.java
+
+D:\PBO\Tugas1>java Hello.java
+Hello
+Hello World
+Welcome
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:18    <DIR>          .
+26/02/2025  09:18    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+              20 File(s)         16.962 bytes
+               2 Dir(s)  14.084.423.680 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:19    <DIR>          .
+26/02/2025  09:19    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               282 Incr.java
+              21 File(s)         17.244 bytes
+               2 Dir(s)  14.084.272.128 bytes free
+
+D:\PBO\Tugas1>javac Incr.java
+
+D:\PBO\Tugas1>java Incr.java
+Nilai i : 5
+Nilai j : 3
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:19    <DIR>          .
+26/02/2025  09:19    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+              22 File(s)         18.116 bytes
+               2 Dir(s)  14.084.182.016 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:21    <DIR>          .
+26/02/2025  09:21    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:21               634 Oper1.java
+              23 File(s)         18.750 bytes
+               2 Dir(s)  14.084.022.272 bytes free
+
+D:\PBO\Tugas1>javac Oper1.java
+
+D:\PBO\Tugas1>java Oper1.java
+n = 10
+x = 1
+y = 2
+n & 8 = 8
+x & ~ 8 = 1
+y << 2 = 8
+y >> 3 = 0
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:22    <DIR>          .
+26/02/2025  09:22    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+              24 File(s)         19.863 bytes
+               2 Dir(s)  14.084.018.176 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:24    <DIR>          .
+26/02/2025  09:24    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:24               803 Oper2.java
+              25 File(s)         20.666 bytes
+               2 Dir(s)  14.083.776.512 bytes free
+
+D:\PBO\Tugas1>javac Oper2.java
+
+D:\PBO\Tugas1>java Oper2.java
+i = 3
+j = 
+i & j = 0
+i | j = 7
+i ^ j = 7
+81.0
+ ~i = -4
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:25    <DIR>          .
+26/02/2025  09:25    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+              26 File(s)         21.833 bytes
+               2 Dir(s)  14.083.690.496 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:26    <DIR>          .
+26/02/2025  09:26    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+26/02/2025  09:26               505 Oper3.java
+              27 File(s)         22.338 bytes
+               2 Dir(s)  14.083.526.656 bytes free
+
+D:\PBO\Tugas1>javac Oper3.java
+
+D:\PBO\Tugas1>java Oper3.java
+true
+false
+true
+true
+true
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:26    <DIR>          .
+26/02/2025  09:26    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+26/02/2025  09:26               424 Oper3.class
+26/02/2025  09:26               505 Oper3.java
+              28 File(s)         22.762 bytes
+               2 Dir(s)  14.083.440.640 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:28    <DIR>          .
+26/02/2025  09:28    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+26/02/2025  09:26               424 Oper3.class
+26/02/2025  09:26               505 Oper3.java
+26/02/2025  09:28               495 Oper4.java
+              29 File(s)         23.257 bytes
+               2 Dir(s)  14.083.276.800 bytes free
+
+D:\PBO\Tugas1>javac Oper4.java
+
+D:\PBO\Tugas1>java Oper4.java
+Nilai e = 10
+Nilai k = 0
+Nilai k = 4
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:28    <DIR>          .
+26/02/2025  09:28    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+26/02/2025  09:26               424 Oper3.class
+26/02/2025  09:26               505 Oper3.java
+26/02/2025  09:28             1.072 Oper4.class
+26/02/2025  09:28               495 Oper4.java
+              30 File(s)         24.329 bytes
+               2 Dir(s)  14.083.272.704 bytes free
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:30    <DIR>          .
+26/02/2025  09:30    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+26/02/2025  09:26               424 Oper3.class
+26/02/2025  09:26               505 Oper3.java
+26/02/2025  09:28             1.072 Oper4.class
+26/02/2025  09:28               495 Oper4.java
+26/02/2025  09:30             1.013 Oprator.java
+              31 File(s)         25.342 bytes
+               2 Dir(s)  14.083.010.560 bytes free
+
+D:\PBO\Tugas1>javac Oprator.java
+Oprator.java:12: error: unclosed string literal
+System.out.println ("Silahkan baca teksnya dan
+                    ^
+Oprator.java:13: error: ';' expected
+tambahkan perintah untuk menampilkan output");
+                  ^
+Oprator.java:13: error: ';' expected
+tambahkan perintah untuk menampilkan output");
+                                    ^
+Oprator.java:13: error: unclosed string literal
+tambahkan perintah untuk menampilkan output");
+                                           ^
+Oprator.java:13: error: not a statement
+tambahkan perintah untuk menampilkan output");
+                                     ^
+5 errors
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:33    <DIR>          .
+26/02/2025  09:33    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+26/02/2025  09:26               424 Oper3.class
+26/02/2025  09:26               505 Oper3.java
+26/02/2025  09:28             1.072 Oper4.class
+26/02/2025  09:28               495 Oper4.java
+26/02/2025  09:33             1.012 Oprator.java
+              31 File(s)         25.341 bytes
+               2 Dir(s)  14.082.916.352 bytes free
+
+D:\PBO\Tugas1>javac Oprator.java
+
+D:\PBO\Tugas1>java Oprator.java
+Silahkan baca teksnya dan tambahkan perintah untuk menampilkan output
+
+D:\PBO\Tugas1>dir
+ Volume in drive D is NAVAL09
+ Volume Serial Number is 928E-D3C9
+
+ Directory of D:\PBO\Tugas1
+
+26/02/2025  09:33    <DIR>          .
+26/02/2025  09:33    <DIR>          ..
+26/02/2025  08:58               876 Asgdll.class
+26/02/2025  08:57               252 Asgdll.java
+26/02/2025  08:59               889 Asign.class
+26/02/2025  08:59               247 Asign.java
+26/02/2025  09:00             1.371 ASIGNi.class
+26/02/2025  09:00             1.021 ASIGNi.java
+26/02/2025  09:04             1.073 BacaData.class
+26/02/2025  09:04               504 BacaData.java
+26/02/2025  09:10             1.412 Bacakar.class
+26/02/2025  09:09               992 Bacakar.java
+26/02/2025  09:11               572 Casting1.class
+26/02/2025  09:11               704 Casting1.java
+26/02/2025  09:13             1.748 Casting2.class
+26/02/2025  09:14               874 Casting2.java
+26/02/2025  09:15             1.052 Ekspresi.class
+26/02/2025  09:14               462 Ekspresi.java
+26/02/2025  09:16             1.258 Ekspresi1.class
+26/02/2025  09:16               803 Ekspresi1.java
+26/02/2025  09:18               492 Hello.class
+26/02/2025  09:17               360 Hello.java
+26/02/2025  09:19               872 Incr.class
+26/02/2025  09:19               282 Incr.java
+26/02/2025  09:22             1.113 Oper1.class
+26/02/2025  09:21               634 Oper1.java
+26/02/2025  09:25             1.167 Oper2.class
+26/02/2025  09:24               803 Oper2.java
+26/02/2025  09:26               424 Oper3.class
+26/02/2025  09:26               505 Oper3.java
+26/02/2025  09:28             1.072 Oper4.class
+26/02/2025  09:28               495 Oper4.java
+26/02/2025  09:33               937 Oprator.class
+26/02/2025  09:33             1.012 Oprator.java
+              32 File(s)         26.278 bytes
+               2 Dir(s)  14.082.822.144 bytes free
+
+D:\PBO\Tugas1>
